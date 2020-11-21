@@ -1,4 +1,3 @@
-do 
-  puts"hello world"
-end
-end
+"hello world"
+
+hello world
